@@ -1,5 +1,7 @@
 # ThemePicker
 PRODUCT_PACKAGES += \
+    Launcher3 \
+    Launcher3QuickStep \
     ThemePicker
 
 # Applications

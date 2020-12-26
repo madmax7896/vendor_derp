@@ -75,6 +75,7 @@ $(foreach f,$(wildcard vendor/derp/prebuilt/common/etc/init/*.rc),\
 
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
+    Launcher3 \
     Launcher3QuickStep \
     SystemUI
 
