@@ -29,5 +29,5 @@
     <string name="config_screenshotEditor">com.google.android.markup/com.google.android.markup.AnnotateActivity</string>
 
     <!-- Launcher package name for overlaying icons. -->
-    <string name="launcher_overlayable_package">com.google.android.apps.nexuslauncher</string>
+    <string name="launcher_overlayable_package">com.android.launcher3</string>
 </resources>
