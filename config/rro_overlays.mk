@@ -14,10 +14,6 @@
 # limitations under the License.
 #
 
-# Overlays
-PRODUCT_PACKAGES += \
-    PixelLauncherOverlay
-
 # DerpFest Overlays
 PRODUCT_PACKAGES += \
     DerpConfigOverlay \
